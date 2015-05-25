@@ -1,2 +1,2 @@
 # TesteJunit
-Acesta este un readme
+Readme s-a schimbat
